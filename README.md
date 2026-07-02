@@ -27,19 +27,19 @@ Key Insights
 
 Customer Analysis
 
-     Female customers contributed the highest revenue and purchase quantity
-     The 35–55 age group showed the highest shopping activity
-     Younger customers preferred digital payment methods
+     1. Female customers contributed the highest revenue and purchase quantity
+     2. The 35–55 age group showed the highest shopping activity
+     3. Younger customers preferred digital payment methods
 Category Performance
 
-     Clothing had the highest purchase volume
-     Technology products generated higher revenue per transaction
-     Cosmetics and clothing categories were dominated by female customers
+     1. Clothing had the highest purchase volume
+     2. Technology products generated higher revenue per transaction
+     3. Cosmetics and clothing categories were dominated by female customers
 Payment Analysis
 
-     Cash was the most preferred payment method
-     Credit cards were commonly used for high-value purchases
-     Digital payment adoption was higher among younger customers
+     1. Cash was the most preferred payment method
+     2. Credit cards were commonly used for high-value purchases
+     3. Digital payment adoption was higher among younger customers
      
 Dashboard Features
 1. Revenue analysis dashboard
@@ -56,9 +56,10 @@ Business Recommendations
 5. Introduce loyalty programs for repeat customers
    
 Files Included
-     Customer Data Analysis Presentation
-     Power BI Dashboard Report
-     Dashboard Screenshots
+
+Customer Data Analysis Presentation
+Power BI Dashboard Report
+Dashboard Screenshots
 
 Skills Demonstrated
 1. Data Cleaning
