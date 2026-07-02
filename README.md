@@ -57,9 +57,10 @@ Business Recommendations
    
 Files Included
 
-Customer Data Analysis Presentation
-Power BI Dashboard Report
-Dashboard Screenshots
+1.Customer Data Analysis Presentation
+2.Excel file
+3.Power BI Dashboard Report
+4.Dashboard Screenshots
 
 Skills Demonstrated
 1. Data Cleaning
