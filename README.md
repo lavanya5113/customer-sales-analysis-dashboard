@@ -56,7 +56,6 @@ Business Recommendations
 5. Introduce loyalty programs for repeat customers
    
 Files Included
-
 1.Customer Data Analysis Presentation
 2.Excel file
 3.Power BI Dashboard Report
