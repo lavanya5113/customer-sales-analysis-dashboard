@@ -26,14 +26,17 @@ Data Preparation
 Key Insights
 
 Customer Analysis
+
      Female customers contributed the highest revenue and purchase quantity
      The 35–55 age group showed the highest shopping activity
      Younger customers preferred digital payment methods
 Category Performance
+
      Clothing had the highest purchase volume
      Technology products generated higher revenue per transaction
      Cosmetics and clothing categories were dominated by female customers
 Payment Analysis
+
      Cash was the most preferred payment method
      Credit cards were commonly used for high-value purchases
      Digital payment adoption was higher among younger customers
