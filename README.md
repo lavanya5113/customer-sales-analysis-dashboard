@@ -24,6 +24,7 @@ Data Preparation
 5. Prepared data for dashboard visualization
    
 Key Insights
+
 Customer Analysis
      Female customers contributed the highest revenue and purchase quantity
      The 35–55 age group showed the highest shopping activity
