@@ -1,4 +1,4 @@
-# Customer Sales & Behavior Analysis Dashboard
+# Customer Sales & Behavior Analysis 
 
 ## Project Overview
 
