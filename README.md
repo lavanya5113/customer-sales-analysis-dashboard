@@ -2,7 +2,9 @@ Customer Sales & Behavior Analysis Dashboard
 
 Project Overview
 
-    This project focuses on analyzing customer shopping behavior using Excel and Power BI. The analysis was performed to understand customer purchasing patterns, revenue contribution, product category performance, and payment preferences. Interactive dashboards were created to visualize the insights and support business decision-making.
+    1. This project focuses on analyzing customer shopping behavior using Excel and Power BI.
+    2. The analysis was performed to understand customer purchasing patterns, revenue contribution, product category performance, and payment preferences. 
+    3. Interactive dashboards were created to visualize the insights and support business decision-making.
 
 Objectives
 
